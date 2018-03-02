@@ -4,7 +4,7 @@ $.extend(true,$.summernote.lang,{
       dialogTitle: 'Attributs de l\'image',
       tooltip: 'Attributs de l\'image',
       tabImage: 'Image',
-        src: 'La source',
+        src: 'Source',
         browse: 'Feuilleter',
         title: 'Titre',
         alt: 'Alt',
@@ -13,7 +13,7 @@ $.extend(true,$.summernote.lang,{
         class: 'Class',
         style: 'Style',
         role: 'Rôle',
-      tabLink: 'Link',
+      tabLink: 'URL',
         linkHref: 'URL',
         linkTarget: 'Cible',
         linkTargetInfo: 'Options: _self, _blank, _top, _parent',
@@ -25,7 +25,7 @@ $.extend(true,$.summernote.lang,{
       tabUpload: 'Télécharger',
         upload: 'Télécharger',
       tabBrowse: 'Feuilleter',
-      editBtn: 'D\'accord'
+      editBtn: 'Ok'
     }
   }
 });
